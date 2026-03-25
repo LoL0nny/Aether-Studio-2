@@ -1,0 +1,11 @@
+{
+  "identifier": "default",
+  "description": "Default capabilities for Aether Music Studio",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "os:default",
+    "fs:default",
+    "dialog:default"
+  ]
+}

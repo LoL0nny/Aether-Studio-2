@@ -1,0 +1,8 @@
+{
+  "name": "Aether Music Studio",
+  "description": "An AI-powered music production suite that generates lyrics, multi-track vocals using Gemini TTS, and orchestrates song structures into virtual stems for a professional mixing experience.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
